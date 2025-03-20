@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Web developer from Delhi, Patel Nagar.</h3>
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="gif" align="right" width="400" />
 
-- 🔭 I’m currently working on **My_Website**
+- 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Himanshu90k](https://github.com/Himanshu90k)
+- 👨‍💻 All of my projects are available at [https://himanshu-rawat-90k.netlify.app/](https://himanshu-rawat-90k.netlify.app/)
 
 - 💬 Ask me about **react, node, and mongoDB**
 
